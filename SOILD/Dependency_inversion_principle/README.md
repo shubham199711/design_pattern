@@ -1,0 +1,2 @@
+The Dependency Inversion Principle states that high-level modules should not depend on low-level modules; both should depend on abstractions. Additionally, abstractions should not depend on details; details should depend on abstractions. In simpler terms, it encourages the design of systems that rely on interfaces or abstract classes rather than concrete implementations. This leads to more flexible, maintainable, and testable code.
+
