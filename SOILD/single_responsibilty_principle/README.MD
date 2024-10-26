@@ -1,0 +1,1 @@
+The Single Responsibility Principle states that a class should have only one reason to change, meaning it should have only one job or responsibility. This leads to code that is easier to maintain, test, and extend. If a class has more than one responsibility, it might be better to split it into separate classes that each focus on a single task.
