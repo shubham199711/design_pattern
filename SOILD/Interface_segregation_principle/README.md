@@ -1,0 +1,1 @@
+The Interface Segregation Principle states that no client should be forced to depend on methods it does not use. In other words, it’s better to have multiple specific interfaces rather than a single general-purpose interface. This principle helps avoid "fat" interfaces and promotes a more modular and maintainable design.
